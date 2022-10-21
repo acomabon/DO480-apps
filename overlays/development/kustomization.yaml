@@ -4,4 +4,4 @@ bases:
 resources:
 - dbclaim-pvc.yaml
 - route.yaml
-namePrefix: dev-1
+namePrefix: dev-
